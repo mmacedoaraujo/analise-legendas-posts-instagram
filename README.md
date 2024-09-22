@@ -97,4 +97,3 @@ Este projeto tem como objetivo entender como o conteúdo textual das legendas in
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Para mais informações, consulte o arquivo [LICENSE](LICENSE).
-```
